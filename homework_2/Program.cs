@@ -56,7 +56,7 @@ namespace homework_2
                         Console.WriteLine("You have lost!");
                         return;
                     }
-                    Console.WriteLine($"You have won {win} dollars!");
+                    Console.WriteLine($"You've won {win} dollars!");
 
                 }
 
