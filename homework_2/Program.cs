@@ -1,4 +1,5 @@
-﻿using System;
+//Artem Mochuliak
+using System;
 
 namespace homework_2
 {
