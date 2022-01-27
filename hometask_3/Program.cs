@@ -1,4 +1,5 @@
-﻿using System;
+//Artem Mochuliak
+using System;
 
 namespace hometask_3
 {
