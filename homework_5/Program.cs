@@ -4,7 +4,7 @@ namespace homework_5
 {
     internal class Program
     {
-        public static void task_903()
+        public static int task_903()
         {
             int[,] arr = new int[10, 10];
             Random r = new Random();
@@ -30,8 +30,7 @@ namespace homework_5
                 }
 
             }
-            Console.WriteLine($"Sum is {sum}");
-            Console.WriteLine();
+            return sum;
         }
         public static void task_904()
         {
